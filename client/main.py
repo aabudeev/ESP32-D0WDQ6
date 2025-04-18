@@ -14,9 +14,9 @@ AP_SSID = "ESP32-D0WDQ6"
 AP_PASSWORD = "waterstd"
 
 # Configuration for guest Wi-Fi network
-GUEST_WIFI = False  # Whether to use guest Wi-Fi
-GUEST_SSID = "LexNET_2.4GHz"  # Guest Wi-Fi SSID
-GUEST_PASSWORD = "waterstd"  # Guest Wi-Fi password
+GUEST_WIFI = False          # Whether to use guest Wi-Fi
+GUEST_SSID = "SSID"         # Guest WiFi SSID
+GUEST_PASSWORD = "p@$$w0rd" # Guest WiFi password
 
 # GPIO pin for the primary LED indicator
 LED_PIN = 2
